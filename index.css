@@ -25,3 +25,25 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+body {
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: #7A57ED;
+    text-decoration: underline;
+    background-image: linear-gradient(#7fbde2, #ED4748);
+}
+
+#jordans-1 {
+    border-right: .25rem solid blue;
+    border-top: .1rem solid blue;
+    border-bottom: .1rem solid blue;
+}
+
+#jordans-2 {
+    border-left: .25rem solid red;
+    border-top: .1rem solid red;
+    border-bottom: .1rem solid red;
+}
